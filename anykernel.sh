@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=ExtraJossv3 by Arif Munandar @Munandar17
+kernel.string=ExtraJoss_v4 by Arif Munandar @Munandar17
 do.devicecheck=1
 do.modules=0
 do.systemless=1
